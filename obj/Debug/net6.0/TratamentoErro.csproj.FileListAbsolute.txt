@@ -1,0 +1,15 @@
+C:\Users\Daniele\TratamentoErro\bin\Debug\net6.0\TratamentoErro.exe
+C:\Users\Daniele\TratamentoErro\bin\Debug\net6.0\TratamentoErro.deps.json
+C:\Users\Daniele\TratamentoErro\bin\Debug\net6.0\TratamentoErro.runtimeconfig.json
+C:\Users\Daniele\TratamentoErro\bin\Debug\net6.0\TratamentoErro.dll
+C:\Users\Daniele\TratamentoErro\bin\Debug\net6.0\TratamentoErro.pdb
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.csproj.AssemblyReference.cache
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.AssemblyInfoInputs.cache
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.AssemblyInfo.cs
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.dll
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\refint\TratamentoErro.dll
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.pdb
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\TratamentoErro.genruntimeconfig.cache
+C:\Users\Daniele\TratamentoErro\obj\Debug\net6.0\ref\TratamentoErro.dll
